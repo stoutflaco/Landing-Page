@@ -147,6 +147,35 @@ p{
 
 }
 
+/* footer styling */
 
+.footer{
+    background-color: #3882F6;
+    padding: 40px;
+    margin: 50px;
+    border-radius: 20px;
+}
+.button2{
+    background-color: #3882F6;
+    border: 3px solid white;
+    color: #F9FAF8;
+    padding: 15px;
+    border-radius: 20px;
+}
+.zoe{
+    font-size: 36px;
+    color: #F9FAF8;
+    font-weight: 900;
 
+}
+.zelda{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+/* footer position */
 
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

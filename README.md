@@ -1,5 +1,41 @@
-Created a basic landing page using html and css. 
-Main point of this project was to get comfortable with flexbox.
-Stenghen my margin,flexbox,css fundamentals with this mini-project.
+# BoJack Horseman Landing Page
 
-live demo:
+A BoJack Horseman-themed landing page built as part of **The Odin Project Foundations**.
+
+## Features
+
+* HTML5 & CSS3
+* Flexbox layouts
+
+## What I Learned
+
+* CSS Box Model
+* Flexbox
+* Layout design
+
+## Live Demo
+
+# BoJack Horseman Landing Page
+
+A BoJack Horseman-themed landing page built as part of **The Odin Project Foundations**.
+
+## Features
+
+* HTML5 & CSS3
+* Flexbox layouts
+* Hero section
+* Cast showcase
+* Quote section
+* GitHub Pages deployment
+
+## What I Learned
+
+* CSS Box Model
+* Flexbox
+* Layout design
+* Git & GitHub workflow
+
+## Live Demo
+
+https://stoutflaco.github.io/Landing-Page/
+
